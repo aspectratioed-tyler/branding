@@ -48,7 +48,16 @@ Technological innovation: Invests in proprietary game engines and technologies t
 graphic element, photography
 
 Name: Ubisoft
+
 Logo: ![logo](./media/Ubisoft.svg)
+
+Color palette: Monochromatic, Black on white, white on black, may adopt colors or textures to align with each game's seperate theme.
+
+Typography: Ubisoft Sans (https://www.onlinewebfonts.com/package/Ubisoft_Sans).
+
+Layout: Ubisoft Store design leverages consistent visual architecture (e.g., 45° angled templates), enabling coherence across e-comm pages, banners, and promotions (https://www.csdesbiens.com/en/portfolio/ubisoft-store-design-system/?utm_source=chatgpt.com).
+
+Graphic elements:
 
 5. History
 6. Brand Communication and Consistency - Application examples
